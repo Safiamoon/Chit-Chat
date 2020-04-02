@@ -1,7 +1,5 @@
  ### EXO CHAT :
-
-    - réaliser un chat qui s'affiche en bas à droite de l'écran
-    - ce chat peut s'ouvrir ou se refermer lorsqu'on appuie sur son titre
-    - il comprend une zone de texte en bas, lors d'un appui sur entrée cela 
-    envoie un message dans la shootbox au-dessus
-    - générer une réponse aléatoire automatique à chaque nouveau message
+   - create a chat popup that appears at the bottom right of the screen
+   - this chat popup can open or close when the title is pressed
+   - it includes a text box at the bottom, when you press enter this send a message in the shootbox above
+   - generate an automatic random response to each new message
